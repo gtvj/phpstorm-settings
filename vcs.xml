@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/nationalarchives/research-guides-single-page-iteration-two.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gtvj/react-d3.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
