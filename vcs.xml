@@ -48,6 +48,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
   </component>
 </application>
