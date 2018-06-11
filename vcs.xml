@@ -50,6 +50,10 @@
           <option name="url" value="git@github.com:nationalarchives/tna-google-tag-manager-scripts.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:gtvj/terraform-basics.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
