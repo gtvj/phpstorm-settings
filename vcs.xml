@@ -66,8 +66,12 @@
           <option name="url" value="git@github.com:nationalarchives/mvp-prototype-laravel.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:nationalarchives/development-guide.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$" />
+    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
   </component>
 </application>
