@@ -1,18 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="a81d7006-c609-4dce-9e5a-819e81b2684b" name="gtvj">
-      <server host="github.com" />
-    </account>
-    <account id="c609a6b6-a1fe-4c1e-823a-2b8d1cce3f05" name="gtvj">
-      <server host="github.com" />
-    </account>
-    <account id="fdb09b58-3d46-41ad-9855-f36e81518ebe" name="m@gwnjns.com">
-      <server host="github.com" />
-    </account>
-    <account id="095c6f45-67f6-481b-874b-7aa00eeae4d9" name="m@gwnjns.com">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="PRIVATE_GIST" value="false" />
     <option name="CLONE_GIT_USING_SSH" value="true" />
