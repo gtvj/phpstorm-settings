@@ -1,0 +1,16 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.15.3" last-modified="1551798630000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6111111" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="SplitFileEditor.Proportion" value="0.66800404" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="file.gist.reindex.count" value="4734" />
+    <property name="lastTip" value="7" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
